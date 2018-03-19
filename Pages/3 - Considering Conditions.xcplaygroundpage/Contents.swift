@@ -14,80 +14,80 @@ let y = -3
 let z = 4
 //: ---
 //: ## Conditional Expression 1
-// x == 4
+x == 4
 //: ### Your predicted value
-//
+// true
 //: ### Were you correct?
-//
+//yuh
 //: ---
 //: ## Conditional Expression 2
-// x != z
+ x != z
 //: ### Your predicted value
-//
+//false
 //: ### Were you correct?
-//
+//yuh
 //: ---
 //: ## Conditional Expression 3
-// z == y
+z == y
 //: ### Your predicted value
-//
+//false
 //: ### Were you correct?
-//
+//yuh
 //: ---
 //: ## Conditional Expression 4
-// x + y > 0
+ x + y > 0
 //: ### Your predicted value
-//
+//true
 //: ### Were you correct?
-//
+//yuuh
 //: ---
 //: ## Conditional Expression 5
-// y * y <= z
+y * y <= z
 //: ### Your predicted value
-//
+//true
 //: ### Were you correct?
-//
+//naw
 //: ---
 //: ## Conditional Expression 6
-// y / y == 1
+ y / y == 1
 //: ### Your predicted value
-//
+//true
 //: ### Were you correct?
-//
+//yuh
 //: ---
 //: ## Conditional Expression 7
-// x * (y + 2) > y - (y + z) * 2
+x * (y + 2) > y - (y + z) * 2
 //: ### Your predicted value
-//
+//true
 //: ### Were you correct?
-//
+//yuh
 //: ---
 //: ## Conditional Expression 8
-// x > z || y > z
+x > z || y > z
 //: ### Your predicted value
-//
+// false
 //: ### Were you correct?
-//
+//yuh
 //: ---
 //: ## Conditional Expression 9
-// z > y && z > x
+ z > y && z > x
 //: ### Your predicted value
-//
+// false
 //: ### Were you correct?
-//
+//yuh
 //: ---
 //: ## Conditional Expression 10
-// y * y > z && x * y < z
+ y * y > z && x * y < z
 //: ### Your predicted value
-//
+//true
 //: ### Were you correct?
-//
+//yuh
 //: ## Conditional Expression 11
-// z > y && !(z > x)
+z > y && !(z > x)
 //: ### Your predicted value
-//
+//true
 //: ### Were you correct?
-//
+//yuh
 /*:
  ---
  page 4 of 8 | [Next: 4 - Constructing Conditions](@next)
