@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1 - Evaluating Expressions'/>
+        <page name='2 - Executing Statements'/>
+        <page name='3 - Considering Conditions'/>
+        <page name='4 - Constructing Conditions'/>
+        <page name='5 - Executing Conditional Statements'/>
+        <page name='6 - String Expressions'/>
+        <page name='7 - Go with the Functional Flow'/>
+        <page name='8 - Writing Functions'/>
+    </pages>
+</playground>
